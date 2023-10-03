@@ -1,7 +1,10 @@
 {
-  "name"  : "Adolfo Centeno",
-  "email" : "adsoft@live.com.mx",
-  "cel"   : "(272)190 8413",
+  "name"  : "Antonio",
+  "email" : "antonio@gmail.com",
+  "tittle" : "Desarrollador",
+  "obje" : "pasarse esta materia",
+  "cel"   : "(272)281 1767",
+  "foto"   : "https://firebasestorage.googleapis.com/v0/b/mycv-a803b.appspot.com/o/elon-musk-plaid-scaled.webp?alt=media&token=f6431ce9-25b4-4776-aaec-367d4d098159",
   "social": {
     "face": "^2.8.5",
     "x": "^4.18.2"

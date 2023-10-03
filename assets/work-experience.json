@@ -1,0 +1,14 @@
+{
+    "experiencia_laboral": [
+      {
+        "empresa": "Taqueria Taco",
+        "cargo": "Taquero",
+        "periodo": "Abril 2020 - Noviembre 2020",
+        "logros": [
+          "Hice tacos",
+          "Vendí pozole",
+          "Conseguí la formula secreta del Master Chef"
+        ]
+      }
+      ]
+    }
